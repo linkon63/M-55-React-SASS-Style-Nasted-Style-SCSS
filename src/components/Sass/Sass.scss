@@ -1,0 +1,22 @@
+@import './../Styles/Shared/Color.scss';
+
+.first{
+    color:$primary-color;
+    border: 2px solid $border-color;
+    margin: 2px;
+}
+.second{
+    color:$text-description-color;
+    border: 2px solid $border-color;
+    margin: 2px;
+}
+.third{
+    color:$text-description-color;
+    border: 2px solid $border-color;
+    margin: 2px;
+}
+.four{
+    color:rgb(106, 255, 6);
+    border: 2px solid $border-color;
+    margin: 2px; 
+}

@@ -1,0 +1,9 @@
+@import './../styles/font/Font.scss';
+@import './../styles/shared/Color.scss';
+.home-container{
+    font-size: $regular-font;
+}
+.home-container2{
+    font-size: $extra-large-font;
+    color: $primary-color;
+}
